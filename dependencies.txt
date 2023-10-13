@@ -1,0 +1,6 @@
+ant-design/icons (for icons)
+chart.js (to create charts)
+html-react-parser
+milify
+moment
+react-chartjs-2
